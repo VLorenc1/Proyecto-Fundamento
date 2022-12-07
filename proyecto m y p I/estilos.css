@@ -531,7 +531,7 @@ body {
 .logo1 {
   width: 250px;
   position: relative;
-  animation: mymove 5s infinite;
+  animation: mymove 8s infinite;
   animation-timing-function:cubic-bezier(0.5, 1.5, 0.80, 0);
   
 }
